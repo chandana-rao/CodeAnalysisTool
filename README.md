@@ -5,3 +5,9 @@ This is a code analysis tool that performs the following operations:
   4. Identify the strong components from the dependency analysis using Tarjan's algorithm.
   
   It is designed as a client server model using Windows Communication Foundation, and the GUI is created using Windows Presentation Foundation. 
+  
+  
+  ![alt text](https://github.com/chandana-rao/CodeAnalysisTool/blob/master/Screenshots/Home.PNG)
+  ![alt text](https://github.com/chandana-rao/CodeAnalysisTool/blob/master/Screenshots/Type_Analysis.PNG)
+  ![alt text](https://github.com/chandana-rao/CodeAnalysisTool/blob/master/Screenshots/Dependency_Analysis.PNG)
+  ![alt text](https://github.com/chandana-rao/CodeAnalysisTool/blob/master/Screenshots/Strong_Component.PNG)
